@@ -1,3 +1,5 @@
-def add(a,b):
-    c=a+b
-    return c
+def add(num1,num2):
+    c=num1+num2
+   
+
+   
